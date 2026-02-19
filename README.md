@@ -8,9 +8,14 @@ I specialize in building end-to-end machine learning solutions — from data cle
 
 I enjoy transforming complex datasets into actionable insights that drive business decisions.
 
-## 📊 GitHub Stats
+##  Technical Skills
+Python | Pandas | NumPy | Scikit-learn | SQL | Power BI | Git
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay2002-pixel&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay2002-pixel&layout=compact)
+##  Featured Projects
+- ✈️ Flight Price Prediction – Regression ML project
+- 🏦 Bank Marketing Prediction – Classification ML project
+- 📈 Linear Regression from Scratch – Algorithm implementation
+
+
 
 
